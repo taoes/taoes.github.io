@@ -1,11 +1,11 @@
 ---
-title: Typography and tags
+title: 技术驱动与业务驱动
 date: 2017-12-20 13:51:07
 tags: 
-  - typography
-  - hexo
+  - 技术
+  - 业务
 categories:
-  - notes
+  - 技术
 ---
 ![$cover](images/lake.png)
 

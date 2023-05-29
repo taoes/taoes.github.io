@@ -1,8 +1,10 @@
 # main menu navigation
 menu:
   Home: /
-  About: /about
   Archive: /archives
+  Tags: /tags
+  Photo: /photo
+  About: /about
 
 widgets:
   - tag
@@ -13,25 +15,23 @@ widgets:
 
 # social config
 social:
-  zhihu:
+  zhihu: zhoutao825638
   twitter: /
   facebook: /
-  linkedin:
-  instagram: /
-  github: haojen
+  github: taoes
 
 user:
-  name: Haojen
+  name: iDevKit
   avatar:
-  location: In the dust
-  description: May the Force be with you
+  location: 中国 上海
+  description: 发现未知、探索未知
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
   enable: true
-  repo: Haojen/Claudia-theme-blog # your blog repo
+  repo: taoes/Claudia-theme-blog # your blog repo
 
 
 # documents: https://valine.js.org/quickstart.html
@@ -57,7 +57,7 @@ friend_links:
   - title: Google
     link: https://www.google.com/
   - title: Github
-    link: https://www.github.com/
+    link: https://github.com/taoes
   - title: V2EX
     link: https://v2ex.com/
   - title: Twitter

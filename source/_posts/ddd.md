@@ -1,7 +1,7 @@
 ---
-title: hexo theme cutie v2.x tutorial
-tags: [hexo, cutie, tutorial]
-categories: [notes]
+title: 初识领域模型设计
+tags: [领域模型, 设计]
+categories: [架构]
 toc_level: 3
 version: 3
 date: 2018-02-12 00:00:00 Z
