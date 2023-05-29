@@ -14,11 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 #url: https://haojen.github.io/Claudia-theme-blog/
-<<<<<<< HEAD
 url: https://www.idevkit.com
-=======
-url: http://example.com
->>>>>>> 133187f479af0dba50d66dd8f3fcab57e2c633a5
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
