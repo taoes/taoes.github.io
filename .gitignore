@@ -6,3 +6,5 @@ node_modules/
 .deploy*/
 .idea
 assets
+public/
+node_modules/
