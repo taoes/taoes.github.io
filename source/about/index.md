@@ -2,11 +2,12 @@
 title: about
 date: 2020-12-21 17:21:33
 layout: about
+url: /about
 ---
 
 <p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-    Hey! Nice to see you.</h1>
+    Hey!  Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Taoes, Fullstack developer from 🇨🇳 <b>Anhui, China  </b>, currently living in <b>Shanghai, China</b>.

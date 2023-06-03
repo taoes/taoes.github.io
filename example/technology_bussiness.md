@@ -1,12 +1,11 @@
 ---
 title: 技术驱动与业务驱动
-date: 2022-12-20 13:51:07
+date: 2017-12-20 13:51:07
 tags: 
   - 技术
   - 业务
 categories:
   - 技术
-url: /it/tech_bussiness
 ---
 ![$cover](images/lake.png)
 

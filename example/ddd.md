@@ -1,13 +1,10 @@
 ---
 title: 初识领域模型设计
-tags: [领域模型]
-categories:
-  - 技术
-  - 架构
+tags: [领域模型, 设计]
+categories: [架构]
 toc_level: 3
 version: 3
-date: 2022-02-12 00:00:00 Z
-url: /it/domain_drive_design
+date: 2018-02-12 00:00:00 Z
 ---
 
 ![cover](images/tree.png)
